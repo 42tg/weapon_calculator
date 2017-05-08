@@ -1,7 +1,7 @@
-Anderthalbhänder;2W6;9;Scharf (3);Vielseitig;;;
+AnderthalbhÃ¤nder;2W6;9;Scharf (3);Vielseitig;;;
 Breitschwert;1W6+4;9;Wuchtig;;;;
 Dao;1W6+4;8;Kritisch (1);;;;
-Dolch;1W6+1;6;Wurffähig;;;;
+Dolch;1W6+1;6;WurffÃ¤hig;;;;
 Dschiahn;1W10;8;Exakt (1);Kritisch(2);;;
 Entermesser;1W6+3;7;Kritisch (1);;;;
 Falchion;1W6+5;9;;;;;
@@ -16,46 +16,46 @@ Kurzschwert;1W6+2;7;;;;;
 Langschwert;1W6+4;8;Scharf(2);;;;
 Liara;1W6+2;8;Durchdringung (1);Lange Waffe;Vielseitig;;
 Maira;1W6+1;6;Scharf (2);;;;
-Patalische Klingenfaust;1W6+1;9;Entwaffnungsimmunität;Durchdringung (1);;;
-Patalisches Stoßschwert;1W6+4;9;Entwaffnungsimmunität;Durchdringung (1);;;
-Pfauenfeder;2W6+4;10;Scharf (2);Wuchtig;Zweihändig;;
-Reitersäbel;1W6+3;8;Reiterwaffe(2);;;;
+Patalische Klingenfaust;1W6+1;9;EntwaffnungsimmunitÃ¤t;Durchdringung (1);;;
+Patalisches StoÃŸschwert;1W6+4;9;EntwaffnungsimmunitÃ¤t;Durchdringung (1);;;
+Pfauenfeder;2W6+4;10;Scharf (2);Wuchtig;ZweihÃ¤ndig;;
+ReitersÃ¤bel;1W6+3;8;Reiterwaffe(2);;;;
 Ruahgarr Klinge;2W6;10;Defensiv (1);Durchdringung (2);Kritisch (1);Vielseitig;
-Säbel;1W6+4;8;Scharf(2);;;;
+SÃ¤bel;1W6+4;8;Scharf(2);;;;
 Scheibendolch;1W6;8;Durchdringung(2);;;;
 Schlangenzunge;1W6+2;7;;;;;
 Skavona;1W6+2;7;Durchdringung(2);;;;
 Steinmesser;1W6+1;6;Primitiv;;;;
-Tanto;1W6;6;Exakt(1);Wurffähig;;;
+Tanto;1W6;6;Exakt(1);WurffÃ¤hig;;;
 Tigerhakenschwert;1W10+2;8;Entwaffnend(2);;;;
 Wakizashi;1W6+1;7;Durchdringung(2);Exakt(1);;;
-Wurfdolch;1W6-1;8;Improvisiert;Wurffähig;;;
-Yonnus-Sichel;2W6+4;10;Lange Waffe;Wuchtig;Zweihändig;;
-Zweihänder;2W6+4;12;Durchdringung(2);Lange Waffe;Scharf(3);Wuchtig;Zweihändig
-Zweihandsäbel;2W6+5;11;Scharf(2);Wuchtig;Zweihändig;;
+Wurfdolch;1W6-1;8;Improvisiert;WurffÃ¤hig;;;
+Yonnus-Sichel;2W6+4;10;Lange Waffe;Wuchtig;ZweihÃ¤ndig;;
+ZweihÃ¤nder;2W6+4;12;Durchdringung(2);Lange Waffe;Scharf(3);Wuchtig;ZweihÃ¤ndig
+ZweihandsÃ¤bel;2W6+5;11;Scharf(2);Wuchtig;ZweihÃ¤ndig;;
 ;Hiebwaffen;;;;;;
-Bergbarte;2W6+5;11;Lange Waffe;Wuchtig;Zweih�ndig;;
+Bergbarte;2W6+5;11;Lange Waffe;Wuchtig;Zweihändig;;
 Bronzekeule;1W6+5;10;Wuchtig;;;;
-Doppelaxt;3W6+4;13;Durchdringung(2);Unhandlich;Wuchtig;Zweih�ndig;
+Doppelaxt;3W6+4;13;Durchdringung(2);Unhandlich;Wuchtig;Zweihändig;
 Enterbeil;1W6+4;8;Kletterhilfe;;;;
 Keule;1W6+2;7;Primitiv;;;;
 Kralle;1W10+2;9;Primitiv;Scharf (2);;;
 Kriegsbeil;1W10+3;9;;;;;
-Kriegshammer;2W10+4;12;Unhandlich;Wuchtig;Zweih�ndig;;
+Kriegshammer;2W10+4;12;Unhandlich;Wuchtig;Zweihändig;;
 Macuahuitl;2W6;8;Kritisch(2);Primitiv;;;
 Reiterhammer;1W6+4;9;Reiterwaffe(2);;;;
 Schlagstock;1W6+2;6;Stumpf;;;;
-Spitzhacke;3W6;14;Improvisiert;Primitiv;Wuchtig;Zweih�ndig;
+Spitzhacke;3W6;14;Improvisiert;Primitiv;Wuchtig;Zweihändig;
 Spitzhammer;1W6+1;7;Durchdringung (1);Kletterhilfe;;;
-Stabkeule;3W6+1;12;Durchdringung(1);Kritisch(2);Lange Waffe;Wuchtig;Zweih�ndig
-Streitaxt;2W10+1;11;Scharf(2);Wuchtig;Zweih�ndig;;
+Stabkeule;3W6+1;12;Durchdringung(1);Kritisch(2);Lange Waffe;Wuchtig;Zweihändig
+Streitaxt;2W10+1;11;Scharf(2);Wuchtig;Zweihändig;;
 Streithammer;2W6+3;11;Scharf(2) ;Vielseitig;;;
 Streitkolben;1W6+5;9;;;;;
-Stuhlbein, Flasche, Nudelholz;1W6-1;9;Improvisiert;Primitiv;;;
-Taiaha;1W10+3;10;Doppelwaffe;Durchdringung(2);Exakt(1);Zweih�ndig;
-Valask;1W6;11;Exakt(1);Improvisiert;Kletterhilfe;Unauf�llig I;Zweih�ndig
+Stuhlbein;1W6-1;9;Improvisiert;Primitiv;;;
+Taiaha;1W10+3;10;Doppelwaffe;Durchdringung(2);Exakt(1);Zweihändig;
+Valask;1W6;11;Exakt(1);Improvisiert;Kletterhilfe;Unaufällig I;Zweihändig
 Wurfbeil;1W6+1;10;Improvisiert;Wurftauglich;;;
 Wurfhammer;1W6+2;11;Improvisiert;Wurftauglich;;;
-Zweihandkeule;2W10+4;14;Kritisch(3);Primitiv;Unhandlich;Wuchtig;Zweih�ndig
+Zweihandkeule;2W10+4;14;Kritisch(3);Primitiv;Unhandlich;Wuchtig;Zweihändig
 ;;;;;;;
 Vangarastab;3W6+1;13;Lange Waffe;Vielseitig;Wuchtig;;
