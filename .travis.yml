@@ -8,4 +8,4 @@ deploy:
   file: WeaponCalculator\bin\Release
   on:
     repo: 42tg/weapon_calculator
-    branch: release
+    branch: master
