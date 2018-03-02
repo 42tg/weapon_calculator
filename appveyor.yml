@@ -3,9 +3,10 @@ configuration: Release
 build:
   project: SplittermondWeaponCalculator.sln
   verbosity: normal
+after_build:
+    - ps :.\7z.exe a {APPVEYOR_BUILD_VERSION}.zip %APPVEYOR_BUILD_FOLDER%\WeaponCalculator\bin\Release\WeaponCalculator.exe %APPVEYOR_BUILD_FOLDER%\WeaponCalculator\Waffen.csv
 artifacts:
-- path: WeaponCalculator\bin\Release\WeaponCalculator.exe
-- path: WeaponCalculator\Waffen.csv
+- path: {APPVEYOR_BUILD_VERSION}.zip
 deploy:
 - provider: GitHub
   auth_token:
