@@ -1,13 +1,14 @@
 version: 1.0.{build}
 configuration: Release
+platform: x64
 build:
   project: SplittermondWeaponCalculator.sln
-  verbosity: normal
-after_build:
-    - ps :.\7z.exe a WeaponCalculator.zip %APPVEYOR_BUILD_FOLDER%\WeaponCalculator\bin\Release\WeaponCalculator.exe %APPVEYOR_BUILD_FOLDER%\WeaponCalculator\Waffen.csv
-    - ps : Push-AppveyorArtifact WeaponCalculator.zip
+  verbosity: minimal
 artifacts:
-- path: WeaponCalculator.zip
+- path: WeaponCalculator\bin\Release\*
+  name: Executable
+- path: WeaponCalculator\Waffen.csv
+  name: ExampleFile
 deploy:
 - provider: GitHub
   auth_token:
