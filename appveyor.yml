@@ -7,7 +7,7 @@ after_build:
   - ps : cp .\WeaponCalculator\Waffen.csv .\WeaponCalculator\bin\Release\.
 artifacts:
 - path: WeaponCalculator\bin\Release
-  name: WeaponCalculator-$(version)
+  name: WeaponCalculator-%version%
 deploy:
 - provider: GitHub
   auth_token:
