@@ -3,7 +3,7 @@ configuration: Release
 platform: x64
 build:
   project: SplittermondWeaponCalculator.sln
-  verbosity: minimal
+  verbosity: normal
 artifacts:
 - path: WeaponCalculator\bin\Release\WeaponCalculator.exe
 - path: WeaponCalculator\Waffen.csv
