@@ -3,11 +3,11 @@ configuration: Release
 build:
   project: SplittermondWeaponCalculator.sln
   verbosity: minimal
+after_build:
+  - ps : cp .\WeaponCalculator\Waffen.csv .\WeaponCalculator\bin\Release\.
 artifacts:
-- path: WeaponCalculator\bin\Release\*
-  name: Executable
-- path: WeaponCalculator\Waffen.csv
-  name: ExampleFile
+- path: WeaponCalculator\bin\Release
+  name: WeaponCalculator-$(version)
 deploy:
 - provider: GitHub
   auth_token:
