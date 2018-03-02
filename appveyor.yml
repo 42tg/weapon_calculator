@@ -1,0 +1,13 @@
+version: 1.0.{build}
+configuration: Release
+platform: x64
+build:
+  project: SplittermondWeaponCalculator.sln
+  verbosity: minimal
+artifacts:
+- path: WeaponCalculator\bin\Release\WeaponCalculator.exe
+- path: WeaponCalculator\Waffen.csv
+deploy:
+- provider: GitHub
+  auth_token:
+    secure: Pd0tjGABarpRQdEv99s+efMdDRrh5RkK8E1DvhJKOCTY9iBj77aAtZKrRildua08
